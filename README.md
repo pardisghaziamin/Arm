@@ -94,13 +94,13 @@ as you see:
  
 
   - if sensor1 touched then,
-	  1. if sensor2 touched,it means **Double1**
-	 2. Otherwise,if sensor2 touched,it means **Sweep left**
+	  1.  if sensor2 touched,it means **Double1**
+	 2.  Otherwise,if sensor2 touched,it means **Sweep left**
 
 	 
   - if sensor2 touched then,
-	  1. if sensor2 touched,it means **Double2**
-	 2. Otherwise,if sensor2 touched,it means **Sweep right**
+	  1.  if sensor2 touched,it means **Double2**
+	 2.  Otherwise,if sensor2 touched,it means **Sweep right**
 
 ## Forth
 Now,it is time to **set** ports for each actions:
