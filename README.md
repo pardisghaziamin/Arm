@@ -128,5 +128,5 @@ Now,it is time to **set** ports for each actions:
 	#define  double2_Port_reset (HAL_GPIO_WritePin(GPIOE,GPIO_PIN_15,GPIO_PIN_RESET))
 
  # Result
- you can see whole of final video on the link below:
+ you can see whole of final Result on the link below:
  
